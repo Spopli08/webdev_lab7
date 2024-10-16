@@ -1,7 +1,7 @@
 body {
   font-family: serif;
   background: url('../images/galaxy-night-landscape.jpg');
-  margin: none;
+  margin: 0px;
   padding: 10px;
   text-align: center;
 }
